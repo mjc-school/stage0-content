@@ -51,4 +51,3 @@ public class Main {
 When you run this code, you should see the message `Hello World` in console. Congratulations!
 
 ![7](./pics/7.png)
-

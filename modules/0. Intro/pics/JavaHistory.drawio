@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2024-03-24T17:49:35.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SvQyV1wLDrIphfK6ZPmO" version="24.1.0" type="device">
+  <diagram name="Page-1" id="0VXrRRr5yKsf7Mrg1vN5">
+    <mxGraphModel dx="683" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;1995&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7DA64;shadow=0;strokeColor=#545454;strokeWidth=0.4;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="63" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2007&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7DA64;shadow=0;strokeColor=#545454;strokeWidth=0.4;sketch=1;curveFitting=1;jiggle=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="103" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2010&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7DA64;shadow=0;strokeColor=#545454;glass=0;strokeWidth=0.4;sketch=1;curveFitting=1;jiggle=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="282" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-6" value="" style="triangle;whiteSpace=wrap;html=1;rounded=1;fillColor=#A7DA64;shadow=0;strokeColor=#545454;sketch=1;curveFitting=1;jiggle=2;strokeWidth=0.4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="500" y="415" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Created by&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sun Microsystems&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="69" y="490" width="94" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Acquired by Oracle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="490" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;OpenJDK project —&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;open-source Java Platform&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="174.5" y="490" width="94" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;2017&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A7DA64;shadow=0;strokeColor=#545454;glass=0;strokeWidth=0.4;sketch=1;curveFitting=1;jiggle=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="twJZAlfTH8MTjaJ9DCyw-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;New 6-months release cycle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="393" y="490" width="94" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
